@@ -1,0 +1,28 @@
+name: gilbertorey
+favicon: null
+layout_spectrum: 0.24415575060993433
+typography_spectrum: 0.40828563622199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5579037398565561
+  lightness: 0.47153304051607847
+  saturation: 0.3702403374481946
+  rhythmicContrast: 0.5134424043353647
+purpose: []
