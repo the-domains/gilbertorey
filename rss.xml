@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gilbertorey]]></title>
+        <description><![CDATA[gilbertorey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 17:31:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my world of expertise!]]></title>
+            <description><![CDATA[<article><h1>Welcome to my world of expertise!</h1><p>Expertise is vast yet selective.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10980f27-9b95-4823-9741-a24c28637a5c.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-my-world-of-expertise/index.html</link>
+            <guid isPermaLink="false">af962393-6193-4d25-a237-1b655a95a7b8</guid>
+            <pubDate>Sun, 27 Dec 2015 17:31:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
