@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[universe of influence]]></title>
-        <description><![CDATA[universe of influence]]></description>
+        <title><![CDATA[news / insights]]></title>
+        <description><![CDATA[news / insights]]></description>
         <link>https://thegrid.ai/gilbertorey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 01:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 21:08:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gilbertorey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Launching a Collaborative Workspace 3. 2. 1.]]></title>
@@ -40,13 +40,6 @@
             <link>http://www.fastcoexist.com/3054464/we-need-get-ready-to-feed-2-billion-more-people-2015-in-food</link>
             <guid isPermaLink="false">833f6a87-60e5-4f36-acd3-f8df1204a2da</guid>
             <pubDate>Tue, 29 Dec 2015 00:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to my world of expertise!]]></title>
-            <description><![CDATA[<article><h1>Welcome to my world of expertise!</h1><p>Expertise is vast yet selective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/538d644d9faad100822b773f07759588da1a6465.jpg"></article>]]></description>
-            <link>https://thegrid.ai/gilbertorey/welcome-to-my-world-of-expertise/index.html</link>
-            <guid isPermaLink="false">af962393-6193-4d25-a237-1b655a95a7b8</guid>
-            <pubDate>Sun, 27 Dec 2015 17:31:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
